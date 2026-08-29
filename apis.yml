@@ -9,6 +9,17 @@ description: >-
   (NASA estimates ISS crew time at ~$130K/hour). The company is pre-product hardware, backed by Y Combinator
   and Planet Ventures (~$7.1M raised), and currently exposes no public API, developer portal, documentation,
   SDK, or other machine-readable surface; this profile captures company identity only.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
